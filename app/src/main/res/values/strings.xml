@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleNotes</string>
+    <string name="user_name">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="register">Sign Up</string>
+    <string name="email">Email:</string>
+    <string name="empty_username">Please enter a username</string>
+    <string name="empty_password">Please enter a password</string>
+    <string name="empty_password_and_username">Please enter a username and password</string>
+</resources>

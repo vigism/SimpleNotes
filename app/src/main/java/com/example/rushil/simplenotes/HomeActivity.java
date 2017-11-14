@@ -1,0 +1,17 @@
+package com.example.rushil.simplenotes;
+
+        import android.support.v7.app.AppCompatActivity;
+        import android.os.Bundle;
+
+        import com.example.rushil.simplenotes.API.Client;
+
+public class HomeActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_home);
+
+        Client client = new Client();
+    }
+}
